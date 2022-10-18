@@ -62,21 +62,20 @@ Address is printed in hexadecimal.
 .B r
 Prints a string in reverse.
 .TP
-[6~OBOBOBOBOBOBOBOBOBOB.B R
+B.R
 Prints a string converted to rot13
-[6~OBOBOBOBOBOBOBOBOBOBOBOB.TP
-[6~OBOBOBOBOBOBOBOBOBOBOBOBOB.B %
+.TP
+.B %
 A '%' is written but no argument is converted. The complete version specification is '%%'
-[6~OBOBOBOBOBOBOBOBOBOBOBOB
-[6~OBOBOBOBOBOBOBOBOBOBOBOB.br
-[6~OBOBOBOBOBOBOBOBOBOBOBOB.SH BUGS
+
+.br
+.SH BUGS
 bugs exist
 
 .SS colphon
-[6~OBOBOBOBOBOBOBOB.br
+br
 This page was created by Chimobi Ndidiaha and Bonaventure Nwangwu in collaboration with ALX School.
-[6~OBOBOBOBOBOBOBOBOBOBOBOBOB
+
 .SH AUTHORS
-[6~OBOBOBOBOBOBOBOBOBOBOBOBOB
 
 By Chimobi Ndidaha and Bonaventure Nwangwu
